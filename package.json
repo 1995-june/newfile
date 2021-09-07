@@ -1,0 +1,22 @@
+{
+  "name": "file-cli777",
+  "version": "1.0.1",
+  "description": "周考技能测试",
+  "main": "command.js",
+  "bin": {
+    "file-cli": "./command.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "june_",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.1.0",
+    "inquirer": "^8.1.2",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "tangtangtangtangtang": "^1.0.0"
+  }
+}
